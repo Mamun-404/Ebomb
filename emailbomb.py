@@ -7,7 +7,6 @@ print( )
 import smtplib
 import time
 
-print("×××××××Created B
 
 logo = """
    Mamun Hasan
