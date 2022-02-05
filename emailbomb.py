@@ -66,7 +66,7 @@ print( )
 
 if s=="gmail":
 	mail=smtplib.SMTP('smtp.gmail.com','587')
-elif s_ == "outlook":
+elif s== "outlook":
 	mail = smtplib.SMTP('smtp.office365.com',587)
 
 for x in range(0,counter):
