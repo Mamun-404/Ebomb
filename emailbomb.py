@@ -17,7 +17,7 @@ logo = """
    Bangladeshi
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92 Mamun
+\033[1;96mAuthor  \033[1;93m: \033[1;92MMamun
 \033[1;96mYouTube \033[1;93m: \033[1;92mBangladeshi
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Ariyanahmedmamun
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/Cyber.Expert.Mamun
