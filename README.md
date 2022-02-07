@@ -6,7 +6,7 @@ $ apt update
 
 $ apt upgrade
 
-$ git clone https://github.com/mamun404/Ebomb
+$ git clone https://github.com/Mamun-404/Ebomb
 
 $ cd Ebomb
 
