@@ -1,12 +1,12 @@
 
-+++++++++Email Bomber+++++++
+# +++++++++Email Bomber+++++++
 
 
 $ apt update
 
 $ apt upgrade
 
-$ git clone https://github.com/Ariyanahmedmamun/Ebomb
+$ git clone https://github.com/mamun404/Ebomb
 
 $ cd Ebomb
 
